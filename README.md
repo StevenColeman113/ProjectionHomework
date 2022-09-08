@@ -10,3 +10,7 @@
 ![Azi](https://user-images.githubusercontent.com/112418269/189024655-d96ce57d-0bc5-496a-9f28-6b00ab6b4162.png)
 
 # This map uses the Azimuthal projection, it projects from a top down view but heavily distorts direction, distance isn't distorted too much.
+
+![Conic](https://user-images.githubusercontent.com/112418269/189025783-e1db800c-f08f-4fdc-829c-25c8e3ea3c35.png)
+
+# This last map uses a conic projection. As we can see things tend to get distorted towards the poles and it is very visible in the top of our map as alaska takes on an unrealistic curve. This would lead to someone reading this map to think that the rivers follow more of a curve than they truly do.
